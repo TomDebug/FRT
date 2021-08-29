@@ -1,0 +1,10 @@
+{
+  "name": "3",
+  "short_name": "3",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
